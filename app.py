@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import pickle
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 #st.set_option('deprecation.showfileUploaderEncoding', False)
